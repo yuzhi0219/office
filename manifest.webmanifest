@@ -1,0 +1,17 @@
+{
+  "name": "三电迁改 · 施工管理办公台",
+  "short_name": "迁改办公台",
+  "description": "电力/通信/铁路三电迁改施工管理：施工日志、安全技术交底、要点申请、隐蔽验收、周报月报、例会汇报、QC 与五小成果。离线可用，数据存本机。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f7",
+  "theme_color": "#0b4f8a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
